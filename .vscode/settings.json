@@ -1,0 +1,15 @@
+{
+  "search.exclude": {
+    "**/coverage": true,
+    "**/node_modules": true,
+    "**/dist": true
+  },
+  "editor.fontFamily": "Victor Mono, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "eslint.enable": true,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "json.format.enable": true,
+  "editor.tabSize": 2,
+  "javascript.suggest.autoImports": true,
+  "python.pythonPath": "/usr/bin/python3"
+}
