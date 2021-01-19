@@ -1,0 +1,1 @@
+{"version":3,"sources":["webapis.js"],"names":["foo","console","log","bam"],"mappings":"AAAAA,GAAG;;AACH,IAAIA,GAAG,GAAG,SAANA,GAAM,GAAY;AACpBC,EAAAA,OAAO,CAACC,GAAR,CAAYC,GAAZ;AACA,MAAIA,GAAG,GAAG,KAAV;AACD,CAHD","file":"webapis.e58ed976.js","sourceRoot":"..","sourcesContent":["foo();\nvar foo = function () {\n  console.log(bam);\n  var bam = \"bam\";\n};\n"]}
