@@ -44,7 +44,7 @@ tesla={
 tesla.getPropertySpecs();
 
 const expectedHangedParts=["head","abdomen","arm1","arm2","leg1","leg2"]
-const hangedParts=[""];
+const hangedParts=[];
 const wrongCharacters=[];
 const word="application"
 

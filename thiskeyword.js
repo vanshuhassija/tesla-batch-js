@@ -124,3 +124,6 @@ var obj = { a: 2 };
 foo.call(obj);
 
 //Case 4: New Binding
+
+// Where does this new binding fit in this priority.
+// Explicit>Implicit>Default

@@ -34,9 +34,3 @@ console.log(obj2.c.address);
 //Shallow Copy Vs Deep Copy
 //Shallow: When only level 0 elements are copied by value
 //Deep : Each and every object is copied by value
-
-var a = "Hello";
-var b = a;
-b = "Not Hello";
-console.log(b);
-console.log(a);
